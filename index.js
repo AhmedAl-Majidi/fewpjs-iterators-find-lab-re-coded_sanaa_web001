@@ -15,4 +15,7 @@ function testFunc() {
 //
 // }
 
-const superbowlWin = (arr) => arr.find(ele => ele.result === "W")
+const superbowlWin = (arr) => { 
+  return arr.find(ele => ele.result === "W");
+  
+}
