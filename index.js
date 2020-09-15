@@ -12,8 +12,7 @@ function testFunc() {
 //     } else {}
 //   }
 //   }
-//   
+//
 // }
 
 const superbowlWin = (arr) => arr.find(ele => ele.result === "W")
-
