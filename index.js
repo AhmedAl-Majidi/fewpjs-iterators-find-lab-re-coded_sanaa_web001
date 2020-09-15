@@ -17,6 +17,6 @@ function testFunc() {
 
 const superbowlWin = (arr) => {
    let x = arr.find(ele => ele.result === "W");
-   return result ? result.year : undefined
+  //  return result ? result.year : undefined
 
 }
